@@ -1,4 +1,5 @@
-{
+
+export default {
   "navPills": [
     { "tabName": "tabTopClothes", "showName": "Áo", "type": "topclothes" },
     { "tabName": "tabBotClothes", "showName": "Quần", "type": "botclothes" },
